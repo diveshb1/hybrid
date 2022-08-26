@@ -1,6 +1,0 @@
-2022-03-27 14:06:31,688  INFO [main] BaseClass:19 - Reading property file for browser name
- 2022-03-27 14:06:31,691  INFO [main] BaseClass:22 - browser found in the file as achrome
- 2022-03-27 14:06:31,691  INFO [main] BaseClass:24 - user launching a chrome browser
- 2022-03-27 14:06:33,654  INFO [main] BaseClass:27 - user Launched a chrome browser
- 2022-03-27 14:06:34,087  INFO [main] BaseClass:36 - maximizing  browser window
- 
